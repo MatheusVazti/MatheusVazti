@@ -1,12 +1,23 @@
 ### Hi there 😎
 
-Eu sou Matheus Vaz, sou desenvolvedor Front end, atualmente estou aprendendo e criando projetos com:  
+<h1 align='center'>
+  Olá, sou o Matheus Vaz!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
+
+<p align='center'>
+  Desenvolvedor Front-End
+</p>
+### 🌻 Sobre mim:
+ sou desenvolvedor Front end, atualmente estou aprendendo e criando projetos com:  
 <br>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" href="html-logo" />
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" href="css-logo"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" href="javascript-logo"/>
 <br>
+- 🌱 Atualmente estou aprendendo JavaScript, Node, React Native, Inglês.
 - 🚀 Estudante do DevClub
 - 📫 Meu email: matheusvazti@gmail.com
 
@@ -35,3 +46,7 @@ Eu sou Matheus Vaz, sou desenvolvedor Front end, atualmente estou aprendendo e c
 
                     Acredito que sucesso significa dar o melhor de si todos os dias, então acho que sou bem-sucedido.
                     Tenho orgulho de ser um profissional dedicado e sempre tive um ótimo desempenho.
+                    <br>
+                    <br>
+                    <p>🧠 <spam style="font-style:italic">"Seja você mesmo, todos os outros já existem."</spam></p>
+

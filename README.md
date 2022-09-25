@@ -46,7 +46,7 @@
 <br>
 <a href="https://www.linkedin.com/in/matheus-vaz-257248227/ " /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="instagram-image" />
 <a href="https://www.instagram.com/matheus_vaz155/"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="matheusvazti@gmail.com"/>
 <br>
 <br>
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |

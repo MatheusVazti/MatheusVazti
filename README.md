@@ -15,7 +15,7 @@
 <br>
 <p>
   <em>
- sou desenvolvedor Front end, atualmente estou aprendendo e criando projetos com:  
+  Atualmente estou aprendendo e criando projetos com:  
   </em>
 </p>
 <br>
